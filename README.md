@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlgardner1
+- 👋 Hi, I’m Meredith.
 - 👀 I’m a junior developer interested in increasing my coding skills! 
 - 🌱 I’m currently learning how to code through a women's cohort of the MIT xPro program.
 - 💞️ I’m looking to collaborate on basic coding skills that can eventually be used to assist non-profit organizations.
